@@ -1,0 +1,1 @@
+An app which serves as a client for AI models, both on web and on mobile.
