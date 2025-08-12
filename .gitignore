@@ -1,0 +1,26 @@
+# .NET
+[Bb]in/
+[Oo]bj/
+*.pdb
+*.suo
+*.user
+*.vs/
+*.vscode/
+.idea/ # Rider/JetBrains IDE files
+*.iml # Rider/JetBrains IDE files
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Angular Specific
+dist/ # Angular build output
+.angular/cache
+coverage/
+
+# temp files
+*.tmp
