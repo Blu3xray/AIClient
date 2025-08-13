@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "app": {
+    "client-app": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -57,10 +57,10 @@
           "builder": "@angular/build:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "app:build:production"
+              "buildTarget": "client-app:build:production"
             },
             "development": {
-              "buildTarget": "app:build:development"
+              "buildTarget": "client-app:build:development"
             }
           },
           "defaultConfiguration": "development"

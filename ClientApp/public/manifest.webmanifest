@@ -1,6 +1,6 @@
 {
-  "name": "app",
-  "short_name": "app",
+  "name": "client-app",
+  "short_name": "client-app",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
